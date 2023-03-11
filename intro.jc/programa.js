@@ -16,8 +16,6 @@ function calcularHipotenusa(a,b){
 
     const hipotenusa = Math.sqrt(a**2+b**2);
     return hipotenusa;
-
-
 }
     function calculadora(a,b){
 
