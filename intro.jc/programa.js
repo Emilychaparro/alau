@@ -40,7 +40,6 @@ function media(){
     let y=parseInt(campo_y.value);
     let z=parseInt(campo_z.value);
 
-
     let promedio=(x+y+z)/3
 
     return promedio;
