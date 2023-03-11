@@ -5,8 +5,6 @@ function calcular(base,altura){
     let area ;
     let perimetro ;
 
-    
-
     area=base*altura;
     perimetro=2*(base+altura);
 
@@ -48,42 +46,4 @@ function media(){
     let promedio=(x+y+z)/3
 
     return promedio;
-
-    
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-     
-
-
-
-
-
-
-
-
-
-
-
